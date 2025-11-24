@@ -19,8 +19,6 @@
         <a href="{{ link.pdf | default: '#' }}" style="text-decoration: none; color: #0056b3;">{{ link.title }}</a>
       </div>
       
-      <div class="author" style="margin-top: 5px; font-style: italic;">{{ link.authors }}</div>
-      
       {% if link.date %} 
       <div class="date" style="margin-top: 2px; font-size: 0.9rem; color: #666;">{{ link.date }}</div>
       {% endif %}
