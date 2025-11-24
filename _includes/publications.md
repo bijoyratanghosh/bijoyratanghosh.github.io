@@ -12,7 +12,7 @@
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
     {% endif %}
     {% if link.date %} 
-    <abbr class="badge">{{ link.date }}</abbr>
+    <abbr class="badge" style="position: relative; top: 0; left: 0; margin-bottom: 10px; display: inline-block;">{{ link.date }}</abbr>
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
