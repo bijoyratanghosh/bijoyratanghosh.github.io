@@ -16,7 +16,7 @@
 
     <div class="pub-content" style="flex: 1;">
       <div class="title" style="font-weight: bold; font-size: 1.1rem;">
-        <a href="{{ link.pdf | default: '#' }}" style="text-decoration: none; color: inherit;">{{ link.title }}</a>
+        <a href="{{ link.pdf | default: '#' }}" style="text-decoration: none; color: #0056b3;">{{ link.title }}</a>
       </div>
       
       <div class="author" style="margin-top: 5px; font-style: italic;">{{ link.authors }}</div>
