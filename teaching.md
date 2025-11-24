@@ -7,7 +7,6 @@ permalink: /teaching/
 ## Teaching Experience
 
 ### University of Virginia
-
 **Graduate Teaching Assistant**
 
 *   **ECON 7020: Macroeconomic Theory I (PhD Core)**
@@ -17,3 +16,12 @@ permalink: /teaching/
 *   **ECON 3030: Money and Banking (Undergraduate)**
     *   *Fall 2024, Spring 2025*
     *   Led discussion sections on monetary transmission, financial architecture, and central banking. Developed supplementary materials on financial markets and stabilization policy.
+
+<br>
+
+### Indira Gandhi Institute of Development Research (IGIDR)
+**Graduate Teaching Assistant**
+
+*   **Macroeconomics I (Masters/PhD Core)**
+    *   *Fall 2019*
+    *   Assisted in grading and conducting tutorials for the core macroeconomics course for Masters and PhD students.
