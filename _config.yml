@@ -6,15 +6,15 @@ email: vzw5ab@virginia.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: economics, phd, university of virginia, macroeconomics, fiscal policy, banking
+description: Personal website of Bijoy Ratan Ghosh, Ph.D. Student in Economics at the University of Virginia.
+canonical: https://bijoyratanghosh.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 #google_scholar: https://scholar.google.com/
 cv_link: /assets/files/Bijoy_CV.pdf
-github_link: https://github.com/Bijoyarko7
+github_link: https://github.com/bijoyratanghosh
 linkedin: https://www.linkedin.com/in/bijoy-ratan-ghosh-b987bab6/
 
 # Images (e.g., your profile picture and your website's favicon) 
@@ -38,6 +38,11 @@ font: "Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
