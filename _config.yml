@@ -7,11 +7,14 @@ email: vzw5ab@virginia.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-title: Bijoy Ratan Ghosh | Economics PhD Candidate
-keywords: Bijoy Ratan Ghosh, Economics PhD, Macroeconomics, HANK models, Job Market Paper, Economist Portfolio, Monetary Policy
-description: Academic website of Bijoy Ratan Ghosh, PhD candidate in Macroeconomics. Research focus: Monetary Policy, Fiscal Policy, and Heterogeneous Agent New Keynesian (HANK) models.
-author: Bijoy Ratan Ghosh
-canonical: https://bijoyratanghosh.github.io/
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+title: "Bijoy Ratan Ghosh | Economics PhD Candidate"
+keywords: "Bijoy Ratan Ghosh, Economics PhD, Macroeconomics, HANK models, Job Market Paper, Economist Portfolio, Monetary Policy"
+description: "Academic website of Bijoy Ratan Ghosh, PhD candidate in Macroeconomics. Research focus: Monetary Policy, Fiscal Policy, and Heterogeneous Agent New Keynesian (HANK) models."
+author: "Bijoy Ratan Ghosh"
+url: "https://bijoyratanghosh.github.io"
+canonical: "https://bijoyratanghosh.github.io/"
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -22,7 +25,7 @@ linkedin: https://www.linkedin.com/in/bijoy-ratan-ghosh-b987bab6/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.JPG
+avatar: assets/img/avatar.JPG
 #avatar: ./assets/img/my-photo.jpg
 #favicon: ./assets/img/favicon.png
 #favicon_dark: ./assets/img/favicon-dark.png
