@@ -7,3 +7,8 @@
   authors: "Bijoy Ratan Ghosh"
   date: "September 2025"
   abstract: "In this paper, I study how the U.S. debt management increasingly relies on financial repression as the 'exorbitant privilege' erodes. Historical evidence reveals a policy entanglement: Financial regulations that once targeted stability can quietly support Treasury financing. As external demand wanes, the Treasury might look toward domestic households to hold its debt at a discount, making the fiscal-macroprudential nexus critical. I link leverage constraints to the government budget constraint by extending the continuous-time Kiyotaki-Moore model. When productive borrowers face borrowing limits, savers look towards government assets for returns. The model shows this hidden cost: tighter financial regulation can ease government financing but distorts capital allocation. The stakes are clear: as fiscal dominance creeps in, it is pertinent to understand how financial repression reshapes the economic arrangements and what it implies for the institutional design."
+
+- title: "Changes in stock market structure in the aftermath of an accounting scandal: Evidence from India"
+  authors: "Bijoy Ratan Ghosh and Rajeswari Sengupta"
+  date: "Work in Progress"
+  abstract: "We analyze the Indian stock market's reaction to the Satyam scam using complex networks and minimal spanning trees constructed from stock price cross-correlations. We investigate whether the scandal altered the network structure of related industries and if contagion occurred. Our findings indicate an immense but transient shift in market structure, with no persistent systemic shock. We further explain how IT sector stocks avoided a cascading effect and characterize post-crisis market clusters using network metrics."
