@@ -18,6 +18,10 @@
       <div class="title" style="font-weight: bold; font-size: 1.1rem;">
         <a href="{{ link.pdf | default: '#' }}" style="text-decoration: none; color: #0056b3;">{{ link.title }}</a>
       </div>
+
+      {% if link.authors %}
+      <div class="author" style="font-size: 0.95rem; font-style: italic; color: #555;">{{ link.authors }}</div>
+      {% endif %}
       
       {% if link.date %} 
       <div class="date" style="margin-top: 2px; font-size: 0.9rem; color: #666;">{{ link.date }}</div>
