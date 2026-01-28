@@ -10,4 +10,7 @@ Before joining UVA, I worked at **ANZ Banking Group** and **IDFC First Bank**. I
 
 I am best reached by email at [vzw5ab@virginia.edu](mailto:vzw5ab@virginia.edu).
 
+## Resources
+
+- [**Empirical Macro Curriculum**](https://bijoyratanghosh.github.io/empirical-macro-curriculum/) - A comprehensive guide to empirical macroeconometrics, covering panel methods, local projections, VARs, difference-in-differences, Bayesian econometrics, and more.
 
