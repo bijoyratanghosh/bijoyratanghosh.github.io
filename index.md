@@ -6,8 +6,6 @@ layout: homepage
 
 I am a PhD candidate in Economics at the **University of Virginia**. My research focuses on **macroeconomics**, with particular interests in **monetary-fiscal policy interactions**, **financial repression**, and **sovereign debt management**.
 
-My job market paper studies how the distribution of sovereign debt across different holders—central banks, commercial banks, and markets—shapes monetary policy constraints. I show that bank-heavy debt absorption creates "financial dominance," limiting central banks' ability to fight inflation.
-
 Before joining UVA, I worked at **ANZ Banking Group** and **IDFC First Bank**. I hold an M.Phil. in Development Studies from **IGIDR, Mumbai**, and an M.Sc. in Applied Mathematics from the **University of Hyderabad**.
 
 ## Research Interests
