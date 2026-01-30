@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a PhD candidate in Economics at the **University of Virginia**. My research focuses on **macroeconomics**, with particular interests in **monetary-fiscal policy interactions**, **financial repression**, and **sovereign debt management**.
+I am a 3rd year PhD student in Economics at the **University of Virginia**. My research focuses on **macroeconomics**, with particular interests in **monetary-fiscal policy interactions**, **financial repression**, and **sovereign debt management**.
 
 Before joining UVA, I worked at **ANZ Banking Group** and **IDFC First Bank**. I hold an M.Phil. in Development Studies from **IGIDR, Mumbai**, and an M.Sc. in Applied Mathematics from the **University of Hyderabad**.
 
